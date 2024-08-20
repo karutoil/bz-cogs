@@ -93,7 +93,8 @@ FUNCTION_CALLING_SUPPORTED_MODELS = [
     "anthropic/claude-3-haiku:beta",
     "anthropic/claude-3-sonnet:beta",
     "anthropic/claude-3-opus:beta",
-    "anthropic/claude-3.5-sonnet:beta"
+    "anthropic/claude-3.5-sonnet:beta",
+    "nousresearch/hermes-3-llama-3.1-405b"
 ]
 VISION_SUPPORTED_MODELS = [
     "gpt-4o",
